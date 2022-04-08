@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'corsheaders',
-    'portfolios.app.PortfoliosConfig'
+    'portfolios.apps.PortfoliosConfig'
 ]
 
 MIDDLEWARE = [
