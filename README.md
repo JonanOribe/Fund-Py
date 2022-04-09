@@ -2,9 +2,9 @@
 
 <h3>:construction: Entorno de trabajo: :warning:ATENCIÓN: comandos válidos en Windows 10. Es posible que otros sistemas operativos necesiten usar otras formas de instalación:warning:</h3>
 <li>Instalamos <b>Python X.X.X</b></li> 
-<li>Creamos con: <b>python3 -m venv Python-Schema-env</b> #Ya viene creado desde el repositorio!!</li> 
-<li>Activamos en WINDOWS con: <b>Python-Schema-env\Scripts\activate</b></li>
-<li>Activamos en MAC con: <b>source Python-Schema-env/bin/activate</b></li>
+<li>Creamos con: <b>python3 -m venv env-Fund-Py</b> #Ya viene creado desde el repositorio!!</li> 
+<li>Activamos en WINDOWS con: <b>env-Fund-Py\Scripts\activate</b></li>
+<li>Activamos en MAC con: <b>source env-Fund-Py/bin/activate</b></li>
 <h3>:books: Dependencias</h3>
 <li>Instalamos librerías con: <b>pip3 install -r requirements.txt</b></li>
 <h3>:mag_right: Testing</h3>
